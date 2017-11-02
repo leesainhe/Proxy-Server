@@ -27,7 +27,7 @@ Linux instructions:
 4) In the client side, enter the URL of the file/webpage that you want to load from the web.
 
 Command to compile java file in the command line (windows) and terminal (Linux):
-javac filename.java
+ javac filename.java
 
 Command to run java file in the command line (windows) and terminal (Linux):
-java filename
+ java filename
