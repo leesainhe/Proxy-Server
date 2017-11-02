@@ -1,7 +1,7 @@
 # Proxy-Server
 Group details:
 
-	Roll No.            Name
+	Roll No.        Name
 1. 14115012             Antara Kale
 2. 14115039             Hemanti Pegu  
 3. 14115049             Leesa Inhe  
